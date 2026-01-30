@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "questions": [
+    {
+    "id": 1,
+    "question": "Toute donnée ou instruction entrée dans la mémoire d’un ordinateur est considérée comme?",
+    "choices": [
+        { "key": "A", "text": "Stockage" },
+        { "key": "B", "text": "Sortie" },
+        { "key": "C", "text": "Entrée" },
+        { "key": "D", "text": "Information" },
+        { "key": "E", "text": "Aucune de ces réponses n’est vraie" }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Tout ce qui est envoyé à l’ordinateur, que ce soit une information que vous tapez sur un clavier, un fichier que vous ouvrez ou une commande d’un programme, est appelé « entrée ». Ces entrées sont ensuite traitées par l’ordinateur pour produire des sorties."
+    },
+     {
+      "id": 2,
+      "question": "Le temps pendant lequel une tâche est traitée par l’ordinateur est appelé _______ ?",
+      "choices": [
+        { "key": "A", "text": "Temps d’exécution" },
+        { "key": "B", "text": "Temporisation" },
+        { "key": "C", "text": "Temps réel" },
+        { "key": "D", "text": "Temps d’attente" },
+        { "key": "E", "text": "Aucune de ces réponses n’est vraie" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Le temps d’exécution correspond à la durée totale qu’un programme met pour accomplir une tâche, depuis son lancement jusqu’à sa fin."
+    },
+    {
+      "id": 3,
+      "question": "Lequel des circuits suivants est utilisé comme « Périphériques de mémoire » sur les ordinateurs ?",
+      "choices": [
+        { "key": "A", "text": "Bascules" },
+        { "key": "B", "text": "Comparator" },
+        { "key": "C", "text": "Attenuator" },
+        { "key": "D", "text": "Aucune de ces réponses n’est vraie" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Les bascules sont utilisées comme éléments de stockage pour mémoriser un bit (0 ou 1) et font partie de la logique séquentielle."
+    },
+    {
+      "id": 4,
+      "question": "Lequel des énoncés suivants est faux ?",
+      "choices": [
+        { "key": "A", "text": "Photoshop est un outil de conception graphique par Adobe" },
+        { "key": "B", "text": "Linux est un logiciel libre et open source" },
+        { "key": "C", "text": "Linux est vendu par Microsoft" },
+        { "key": "D", "text": "Windows XP est un système d’exploitation" },
+        { "key": "E", "text": "Aucune de ces réponses n’est vraie" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Linux est un système gratuit et open source. Il n’est pas vendu par Microsoft ni par aucune autre société."
+    },
+    {
+      "id": 5,
+      "question": "Pour indiquer à Excel que nous voulons entrer une formule dans une cellule, nous devons commencer par un opérateur tel que _______ ?",
+      "choices": [
+        { "key": "A", "text": "$" },
+        { "key": "B", "text": "#" },
+        { "key": "C", "text": "=" },
+        { "key": "D", "text": "+" },
+        { "key": "E", "text": "@" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dans Excel, toutes les formules commencent par le signe égal (=), ce qui indique qu’un calcul doit être effectué."
+    },
+    {
+      "id": 6,
+      "question": "Une erreur est aussi appelée _________ ?",
+      "choices": [
+        { "key": "A", "text": "Bug" },
+        { "key": "B", "text": "Debug" },
+        { "key": "C", "text": "Curseur" },
+        { "key": "D", "text": "Icon" },
+        { "key": "E", "text": "Aucune de ces réponses n’est vraie" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Une erreur dans un programme est appelée « Bug ». Le processus de correction des bugs est appelé débogage."
+    },
+    {
+      "id": 7,
+      "question": "Lequel des éléments suivants n’est pas un package d’application ?",
+      "choices": [
+        { "key": "A", "text": "Open Office" },
+        { "key": "B", "text": "Adobe Pagemaker" },
+        { "key": "C", "text": "Microsoft Office" },
+        { "key": "D", "text": "Red Hat Linux" },
+        { "key": "E", "text": "Aucune de ces réponses n’est vraie" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Red Hat Linux est un système d’exploitation, tandis que les autres sont des suites d’applications."
+    },
+    {
+      "id": 8,
+      "question": "Microsoft Word est un exemple de _________ ?",
+      "choices": [
+        { "key": "A", "text": "Système d’exploitation" },
+        { "key": "B", "text": "Dispositif de traitement" },
+        { "key": "C", "text": "Logiciel applicatif" },
+        { "key": "D", "text": "Périphérique d’entrée" },
+        { "key": "E", "text": "Logiciel système" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Microsoft Word est un logiciel applicatif utilisé pour le traitement de texte."
+    },
+    {
+      "id": 9,
+      "question": "La taille de la mémoire des ordinateurs mainframe et de technologie avancée s’exprime en _________ ?",
+      "choices": [
+        { "key": "A", "text": "Octets" },
+        { "key": "B", "text": "Kilo Octets" },
+        { "key": "C", "text": "Bits" },
+        { "key": "D", "text": "Mega Octets" },
+        { "key": "E", "text": "Aucune de ces réponses n’est vraie" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Les ordinateurs mainframe disposent de grandes capacités mémoire, généralement exprimées en mégaoctets, gigaoctets ou plus."
+    },
+    {
+      "id": 10,
+      "question": "La communication offerte par TCP est _________ ?",
+      "choices": [
+        { "key": "A", "text": "Full-duplex" },
+        { "key": "B", "text": "Half-duplex" },
+        { "key": "C", "text": "Semi-duplex" },
+        { "key": "D", "text": "Octet par octet" },
+        { "key": "E", "text": "Aucune de ces réponses n’est vraie" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "TCP permet une communication bidirectionnelle simultanée entre deux hôtes, ce qui correspond à une communication full-duplex."
+    }
+  ]
+}
